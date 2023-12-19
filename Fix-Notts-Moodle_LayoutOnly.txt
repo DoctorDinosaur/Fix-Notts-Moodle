@@ -1,0 +1,11 @@
+! Title: Fix Notts Moodle (Layout Only)
+! Version: 1.0.0
+! Last updated: 2023-12-19
+! Expires: 4 days
+! Description: Make Moodle Less 💩. Doesn't change the beige. Contact Discord: @cpt.dinosaur
+! License: MIT
+! Homepage: https://github.com/DoctorDinosaur/Fix-Notts-Moodle
+! Syntax: uBlock
+moodle.nottingham.ac.uk##body#page-my-index:remove-class(limitedwidth)
+moodle.nottingham.ac.uk##body#page-course-view-topics:remove-class(limitedwidth)
+moodle.nottingham.ac.uk##.dashboard-card-deck:not(.fixed-width-cards) .dashboard-card:style(width: calc(20% - 0.5rem) !important;)
