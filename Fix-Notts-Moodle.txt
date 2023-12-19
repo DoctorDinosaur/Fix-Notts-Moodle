@@ -1,5 +1,5 @@
 ! Title: Fix Notts Moodle
-! Version: 1.0.0
+! Version: 1.0.1
 ! Last updated: 2023-12-19
 ! Expires: 4 days
 ! Description: Make Moodle Less 💩. Contact Discord: @cpt.dinosaur
@@ -7,10 +7,20 @@
 ! Homepage: https://github.com/DoctorDinosaur/Fix-Notts-Moodle
 ! Syntax: uBlock
 moodle.nottingham.ac.uk##body#page-my-index:remove-class(limitedwidth)
+moodle.nottingham.ac.uk##body#page-course-view-topics:remove-class(limitedwidth)
 moodle.nottingham.ac.uk##.dashboard-card-deck:not(.fixed-width-cards) .dashboard-card:style(width: calc(20% - 0.5rem) !important;)
 moodle.nottingham.ac.uk##body#page-my-index:style(background-color: #FFF !important;)
+moodle.nottingham.ac.uk##body#page-course-view-topics:style(background-color: #FFF !important;)
+moodle.nottingham.ac.uk##body:style(background-color: #FFF !important;)
 moodle.nottingham.ac.uk###page.drawers .main-inner:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.card:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.form-control:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.bg-white:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.secondary-navigation .navigation:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.carousel-caption:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.nav-tabs:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.moremenu .nav-tabs:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk###region-main:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.bg-light:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.page-link:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.modal-content:style(background-color: #fff !important;)
