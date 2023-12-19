@@ -9,5 +9,7 @@ Hacked together in an hour. It's a better idea to use something like [Stylus](ht
 - Scroll to bottom -> Import...
 - Enter url: https://raw.githubusercontent.com/DoctorDinosaur/Fix-Notts-Moodle/main/Fix-Notts-Moodle.txt
 
+Also, be sure to go to the moodle homepage -> Edit Mode in the top right -> add back Module Overview.
+
 ## Contributing
 If you've found any horrible beige, please submit a pull request with a filter for it.
