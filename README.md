@@ -1,7 +1,7 @@
 # Fix-Notts-Moodle
 Make Moodle Less 💩
 
-Hacked together in an hour. It's a better idea to use something like [Stylus](https://github.com/openstyles/stylus) for the theme changes, but I already use uBlock.
+Hacked together in an hour. It's a better idea to use something like [Stylus](https://github.com/openstyles/stylus) for the theme changes, but I already use uBlock. Moodle is using Bootstrap for its theming, so there's prob a much easier way.
 
 Fetches updates every 4 days. If something looks broke, you might need to force an update in ublock settings if it's already fixed here.
 
