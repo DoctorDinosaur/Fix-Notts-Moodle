@@ -13,6 +13,8 @@ Also, be sure to go to the moodle homepage -> Edit Mode in the top right -> add 
 - Scroll to bottom -> Import...
 - Enter url: https://raw.githubusercontent.com/DoctorDinosaur/Fix-Notts-Moodle/main/Fix-Notts-Moodle.txt
 
+(Optional layout only version is here too, incase you _like_ the new colours)
+
 ### Automatically
 Click the link on https://doctordinosaur.github.io/Fix-Notts-Moodle/
 
