@@ -14,5 +14,7 @@ Also, be sure to go to the moodle homepage -> Edit Mode in the top right -> add 
 ### Automatically
 Click the link on https://doctordinosaur.github.io/Fix-Notts-Moodle/
 
+*Why github pages?*: uBlock has a [hardcoded](https://github.com/gorhill/uBlock/blob/d0dbc27c025b894bdc5cf32d501a1aaf36725b07/platform/firefox/manifest.json#L60) list of domains that can have a filter list url. Github markdown doesn't support protocol links
+
 ## Contributing
 If you've found any horrible beige, please submit a pull request with a filter for it.
