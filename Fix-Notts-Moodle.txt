@@ -27,3 +27,4 @@ moodle.nottingham.ac.uk##.modal-content:style(background-color: #fff !important;
 moodle.nottingham.ac.uk##.list-group-item:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.message-app .list-group .list-group-item:hover:style(color: #fff !important;)
 moodle.nottingham.ac.uk##.dropdown-menu:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.popover:style(background-color: #fff !important;)
