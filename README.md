@@ -3,6 +3,8 @@ Make Moodle Less 💩
 
 Hacked together in an hour. It's a better idea to use something like [Stylus](https://github.com/openstyles/stylus) for the theme changes, but I already use uBlock.
 
+Fetches updates every 4 days. If something looks broke, you might need to force an update in ublock settings if it's already fixed here.
+
 ## Install
 Also, be sure to go to the moodle homepage -> Edit Mode in the top right -> add back Module Overview.
 ### Manually
