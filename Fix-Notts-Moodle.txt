@@ -1,5 +1,5 @@
 ! Title: Fix Notts Moodle
-! Version: 1.0.1
+! Version: 1.0.2
 ! Last updated: 2023-12-19
 ! Expires: 4 days
 ! Description: Make Moodle Less 💩. Contact Discord: @cpt.dinosaur
@@ -24,3 +24,6 @@ moodle.nottingham.ac.uk###region-main:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.bg-light:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.page-link:style(background-color: #fff !important;)
 moodle.nottingham.ac.uk##.modal-content:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.list-group-item:style(background-color: #fff !important;)
+moodle.nottingham.ac.uk##.message-app .list-group .list-group-item:hover:style(color: #fff !important;)
+moodle.nottingham.ac.uk##.dropdown-menu:style(background-color: #fff !important;)
