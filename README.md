@@ -1,5 +1,5 @@
 # Fix-Notts-Moodle
-Make Moodle Less 💩
+Make New Moodle Less Disgusting
 
 Hacked together in an hour. It's a better idea to use something like [Stylus](https://github.com/openstyles/stylus) for the theme changes, but I already use uBlock. Moodle is using Bootstrap for its theming, so there's prob a much easier way.
 
