@@ -26,3 +26,4 @@ Click the link on https://doctordinosaur.github.io/Fix-Notts-Moodle/
 
 ## Contributing
 If you've found any horrible beige, please submit a pull request with a filter for it.
+If you feel like retheming the whole thing properly, good on you. Open an issue and let me know if this becomes obsolete.
