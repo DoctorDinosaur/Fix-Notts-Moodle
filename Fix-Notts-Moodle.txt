@@ -1,5 +1,5 @@
 ! Title: Fix Notts Moodle
-! Version: 1.0.3
+! Version: 1.0.4
 ! Last updated: 2023-12-19
 ! Expires: 4 days
 ! Description: Make Moodle Less 💩. Contact Discord: @cpt.dinosaur
