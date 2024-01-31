@@ -1,5 +1,5 @@
 ! Title: Fix Notts Moodle (Layout Only)
-! Version: 1.0.0
+! Version: 1.0.1
 ! Last updated: 2023-12-19
 ! Expires: 4 days
 ! Description: Make Moodle Less 💩. Doesn't change the beige. Contact Discord: @cpt.dinosaur
