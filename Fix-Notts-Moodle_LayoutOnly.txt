@@ -6,6 +6,13 @@
 ! License: MIT
 ! Homepage: https://github.com/DoctorDinosaur/Fix-Notts-Moodle
 ! Syntax: uBlock
+!! Layout Filters
+! Remove page width limit
 moodle.nottingham.ac.uk##body#page-my-index:remove-class(limitedwidth)
 moodle.nottingham.ac.uk##body#page-course-view-topics:remove-class(limitedwidth)
+! 3 module cards -> 5 cards
 moodle.nottingham.ac.uk##.dashboard-card-deck:not(.fixed-width-cards) .dashboard-card:style(width: calc(20% - 0.5rem) !important;)
+
+!! Cosmetic Filters
+! Increase border size between sections on module page
+moodle.nottingham.ac.uk##.course-section:style(border-bottom: 5px solid #CFD4D8 !important;)
